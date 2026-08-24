@@ -5,3 +5,7 @@
 void bsw_main(void) {
 
 }
+
+void bsw_init(void) {
+    
+}
