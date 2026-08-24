@@ -1,3 +1,7 @@
 //
 // Created by sunghwan.jang on 26. 8. 24..
 //
+
+void bsw_main(void) {
+
+}
