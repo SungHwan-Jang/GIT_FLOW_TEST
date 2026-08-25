@@ -5,3 +5,11 @@
 void asw_main(void) {
     
 }
+
+void asw_init(void){
+
+}
+
+void asw_function(void){
+    
+}
