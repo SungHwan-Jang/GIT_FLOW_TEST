@@ -13,3 +13,7 @@ void asw_init(void){
 void asw_function(void){
     
 }
+
+void asw_p2_function(void){
+    
+}
