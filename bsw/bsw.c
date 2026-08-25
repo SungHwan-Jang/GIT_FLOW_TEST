@@ -13,3 +13,7 @@ void bsw_init(void) {
 void dcm_patch(void){
     
 }
+
+void dcm_os_pathc(void) {
+
+}
