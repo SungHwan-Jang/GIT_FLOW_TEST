@@ -9,3 +9,7 @@ void bsw_main(void) {
 void bsw_init(void) {
     
 }
+
+void dcm_patch(void){
+    
+}
