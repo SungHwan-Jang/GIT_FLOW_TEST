@@ -14,6 +14,10 @@ void dcm_patch(void){
     
 }
 
-void dcm_os_pathc(void) {
+void dcm_os(void) {
+
+}
+
+void xxxxx(void) {
 
 }
