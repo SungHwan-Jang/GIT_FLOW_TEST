@@ -21,3 +21,7 @@ void asw_p2_function(void){
 void fix_function(void) {
 
 }
+
+void p1_new_function(void) {
+
+}
